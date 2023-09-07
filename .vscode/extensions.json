@@ -1,0 +1,16 @@
+{
+  "recommendations": [
+    "charliermarsh.ruff",
+    "johnnymorganz.stylua",
+    "kampfkarren.selene-vscode",
+    "ms-python.python",
+    "ms-vscode.powershell",
+    "rogalmic.bash-debug",
+    "shakram02.bash-beautify",
+    "slevesque.vscode-autohotkey",
+    "sumneko.lua",
+    "tamasfe.even-better-toml",
+    "timonwong.shellcheck",
+    "yy0931.gitconfig-lsp"
+  ]
+}
